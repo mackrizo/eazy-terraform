@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA2DIQYS6BMW3I44VP"
-  secret_key = "52/2jnmae+ROFyy/jW/XjqiDbHvyxu1RaX1c7CpA"
+  access_key = "PUT YOUR OWN"
+  secret_key = "PUT YOUR OWN"
 }
 
 data "aws_ami" "app_ami" {
